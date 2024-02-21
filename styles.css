@@ -1,0 +1,102 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(250, 255, 242); /*This changes the background colour*/
+    text-align: left; /*This piece of code makes all content center in to the middle*/
+    margin: auto;
+} 
+
+
+
+.top1{
+    background-color: orange;
+    height: 270px;
+    width: 100%;
+    float: right;
+    font-size: 700%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.top2{
+    background-color: lightblue;
+    height: 800px;
+    width: 100%;
+    float: right;
+    font-size:98%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.l{
+    background-color: rgba(243, 52, 4, 0.582);
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+.m{
+    
+    height: 300px;
+    width: 10%;
+    float: left;
+}
+
+.r{
+    background-color: rgb(8, 30, 36);
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+  list-style: none;  
+    
+}
+
+li a{
+    display: block;
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-left: 20px;
+    float: right;
+  
+}
+    
+  a{
+    border: solid;
+  }  
+    
+    
+    
+    
+
+
+
+.sml { background-color: rgba(0, 89, 255, 0.719);
+    height: 500px;
+    width: 25%; 
+    float: right;
+
+}
+.icon {}
+
+.green {
+    background-color: seagreen;
+    width: 25%;
+    height: 400px;
+    float: left;
+    
+    
+
+}
+.shove{
+  width: 20%;
+  height: 500px;
+  float: left;
+} 
+.centre{
+    width:60%;
+    height: 500px;
+    float: left;
+}
