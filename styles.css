@@ -62,7 +62,9 @@ li a{
     float: right;
   
 }
-    
+li a:hover{
+    color: green;
+}    
   a{
     border: solid;
   }  
