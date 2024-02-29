@@ -100,3 +100,11 @@ li a{
     height: 500px;
     float: left;
 }
+
+.leftbox{
+background-color: rgba(0, 89, 255, 0.719);
+    height: 500px;
+    width: 50%; 
+    float: left;
+    
+}
